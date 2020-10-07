@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/sangkyuai/pafy)](https://repl.it/github/sangkyuai/pafy)
 .. image:: https://img.shields.io/pypi/v/Pafy.svg
     :target: https://pypi.python.org/pypi/pafy
 .. image:: https://img.shields.io/pypi/dm/Pafy.svg
